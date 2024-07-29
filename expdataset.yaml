@@ -1,0 +1,17 @@
+path: /home/achintya-trn0175/Intern/Experiment/day_night # dataset root dir (optional)
+train: /home/achintya-trn0175/Intern/Experiment/trainexp.txt
+val:   /home/achintya-trn0175/Intern/Experiment/valexp.txt
+test:  #optional
+
+nc: 23  
+names: [
+    "car", "auto", "rickshaw", "bus", "truck", "cycle", "motorbike", "person", 
+    "dog", "cat", "cow", "potholes", "speed-limit", "barricades", "traffic-cones", 
+    "work-in-progress", "speed-breakers", "traffic light", "vehicle-indicator", 
+    "speed-camera", "stop-sign", "school-sign", "hospital-sign"
+]
+
+batch_size: 4
+img_size: 640 # Adjust image size based on your needs
+epochs: 50  # Number of training epochs (adjust based on dataset size and complexity)
+learning_rate: 0.001 

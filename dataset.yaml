@@ -1,0 +1,14 @@
+path: /home/achintya-trn0175/Intern/modelimplementation/dataset/euler  # dataset root dir
+train: /home/achintya-trn0175/Intern/modelimplementation/dataset/euler/train.txt
+val:   /home/achintya-trn0175/Intern/modelimplementation/dataset/euler/val.txt # validation images 
+test:  #optional
+
+nc: 7  
+names: ['small_vehicle', 'big_vehicle', 'person','two_wheeler','animal','traffic_light','misc'] 
+
+
+batch_size: 4
+img_size: 640 # Adjust image size based on your needs
+epochs: 50  # Number of training epochs (adjust based on dataset size and complexity)
+#workers: 4  # Number of data loader worker threads (adjust based on machine resources)
+learning_rate: 0.001 

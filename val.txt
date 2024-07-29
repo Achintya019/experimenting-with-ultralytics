@@ -1,0 +1,7 @@
+
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/400.jpg
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/401.jpg
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/402.jpg
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/403.jpg
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/404.jpg
+/home/achintya-trn0175/Intern/modelimplementation/dataset/euler/images_annot/405.jpg
